@@ -1,0 +1,63 @@
+=== G# maj (Ab) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      4 3̇ 1 x x x            1-4     
+
+=== A# maj (Bb) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      6 5̇ 3̇ x x x            3-6     
+x-z        6 8 0 x x x            5-8     
+
+=== C m ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      8 6 5̇ x x x            5-8     
+w-y-z      x 3̇ 1 0 4 x            1-4     
+w-x-z      8 6 5̇ 0 x x            5-8     
+w-y        x 3̇ 1 0 x x            1-4     
+
+=== D#/G (Eb/G) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+x-z        x x x 0 4 6            3-6     
+
+=== D# maj (Eb) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 6 5̇ 3̇ x x            3-6     
+x-z        x 6 8 0 x x            5-8     
+
+=== B dim ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x x x 4 3̇ 1            1-4     
+w-x-z      7̇ 8 0 10 0 x           7-10    
+w-x-z      7̇ 8 0 10 x x           7-10    
+w-x-z      x 2 0 4 0 1            1-4     
+
+=== Progression (no capo, key Eb major) ===
+
+           Intro:     G# A# Cm D#/G   G# A# D#
+
+           Verse:     G# A# Cm D#/G   (x2)
+           G# A# Cm D#/G
+           G# A# Cm D#/G   A# Cm D#/G
+
+           Pre-Chorus:  G# A# Cm D#/G   G# A# Bdim Cm
+           G# A# Bdim Cm   G# A#
+
+           Chorus:    G# A# Cm D#/G   G# A# Bdim Cm
+           G# A# Cm D#/G   G# A# Bdim Cm G# A#
+           Cm D#/G G# A# D#   G# A# Cm D#/G
+
+           Interlude: G# A# D#
+
+           Bridge:    G# A# Cm D#/G   G# A# Bdim Cm
+           G# A# Cm D#/G   G# A#
+
+           Pre-Chorus: (same)
+
+           Chorus:    (same)
+
+           Outro:     G# A# D#

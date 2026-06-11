@@ -1,0 +1,135 @@
+=== C maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      8 7̇ 5̇ x x x            5-8     
+w-y-z      8 7̇ 5̇ 0 x x            5-8     
+w-x-z      8 7̇ 10 0 x x           7-10    
+
+=== D maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      10 9̇ 7̇ x x x           7-10    
+x-y        x x 0 11 10 x          9-12    
+
+=== B m ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x 14 12 11 x x         11-14   
+
+=== E m ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      12 10 9̇ x x x          9-12    
+w-y        0 7̇ 9̇ 0 0 0            7-10    
+w-y        0 7̇ 5̇ 0 0 0            5-8     
+w-y        x 7̇ 5̇ 0 0 0            5-8     
+w-y        x 7̇ 9̇ 0 0 0            7-10    
+w-x-z      0 10 9̇ 0 12 0          9-12    
+w-x-z      0 10 9̇ 12 0 0          9-12    
+w-x-z      12 10 9̇ 0 0 0          9-12    
+w-y        0 7̇ 5̇ 0 0 x            5-8     
+w-y        0 7̇ 9̇ 0 0 x            7-10    
+
+=== A m ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x 12 10 9̇ x x          9-12    
+
+=== B maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 14 13̇ 11 x x         11-14   
+
+=== G 7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+x-y        x x x 0 6 7̇            5-8     
+
+=== C m ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      8 6 5̇ x x x            5-8     
+w-y-z      x 3̇ 1 0 4 x            1-4     
+w-x-z      8 6 5̇ 0 x x            5-8     
+w-y        x 3̇ 1 0 x x            1-4     
+
+=== F maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 8 7̇ 5̇ x x            5-8     
+
+=== G maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 10 9̇ 7̇ x x           7-10    
+x-y        3̇ 2 0 0 0 x            1-4     
+w-y        3̇ 5̇ 0 0 0 x            3-6     
+w-y-z      x 10 9̇ 7̇ 0 x           7-10    
+x-y        3̇ 2 0 0 x x            1-4     
+
+=== D/F# ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-y      2 0 0 2 3 2            2-3     
+
+=== D# dim ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x x x 8 7̇ 5̇            5-8     
+
+=== C# m7-5 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-y-z    x 4 5 4 5 x            4-5     
+
+=== C maj7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x x 10 9̇ 12 x          9-12    
+x-y        x 3̇ 2 0 0 0            1-4     
+w-y        x 3̇ 5̇ 0 0 0            3-6     
+w-y-z      8 7̇ 5̇ 0 0 0            5-8     
+w-x-z      8 7̇ 10 0 0 0           7-10    
+w-y-z      8 7̇ 5̇ 0 0 x            5-8     
+w-x-z      8 7̇ 10 0 0 x           7-10    
+w-x-z      x x 10 9̇ 12 0          9-12    
+
+=== Progression (no capo, key G major) ===
+
+           Intro:     C D Bm Em   Am B Em G7
+           C D Bm Em   Am Cm
+           C D Bm Em   F D
+
+           Verse 1:   C D Bm Em   (x2)
+           Am D Bm Em
+           Am D G G7
+
+           Pre-Chorus:  Am C   G D/F# Em
+           Am C   D
+
+           Chorus:    C D Bm Em   Am D G G7
+           C D Bm D#dim7 Em   Am Cm D
+           G G7
+
+           Pre-Chorus 2:  Am C   G D/F# Em
+           Am C   D
+
+           Chorus 2:  C D Bm Em   Am D G G7
+           C D Bm D#dim7 Em   Am Bm Cm
+
+           C-Melo:    C D Bm Em
+           Am B Em Dm G
+           C D Bm D#dim7 Em
+           Am Bm Cm D
+
+           Interlude: G Bm   Em D C#m7-5 C
+           Bm Em   Am D
+
+           C-Melo 2:  C D Bm Em   Am D G G7
+           Am D Bm D#dim7 Em
+           Am Bm Cm D
+
+           Chorus 3:  C D Bm Em   Am D G G7
+           C D Bm D#dim7 Em   Am Bm Cm D
+
+           Outro:     C D Bm Em   Am D G   CM7

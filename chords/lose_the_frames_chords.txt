@@ -1,0 +1,56 @@
+=== G maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 10 9̇ 7̇ x x           7-10    
+x-y        3̇ 2 0 0 0 x            1-4     
+w-y        3̇ 5̇ 0 0 0 x            3-6     
+w-y-z      x 10 9̇ 7̇ 0 x           7-10    
+x-y        3̇ 2 0 0 x x            1-4     
+
+=== A maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 12 11 9̇ x x          9-12    
+
+=== F# m ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      14 12 11 x x x         11-14   
+
+=== B maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 14 13̇ 11 x x         11-14   
+
+=== B m ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x 14 12 11 x x         11-14   
+
+=== Progression (no capo, key D major) ===
+
+           Intro:     N.C. (vocal starts)   G A F#m B
+           G A F#m N.C.
+           G A F#m B
+
+           Verse:     G A F#m Bm  (x4)
+
+           Pre-Chorus:  G A F#m Bm
+           G A F#m B
+           G A F#m Bm  (x2)
+
+           Chorus:    G A F#m B   (x4)
+
+           Interlude: G A F#m B
+
+           Verse 2:   G A F#m Bm  (x4)
+
+           Pre-Chorus 2:  G A F#m Bm
+           G A F#m B
+           G A F#m Bm  (x2)
+
+           Chorus 2:  G A F#m B   G A F#m Bm
+           G A F#m B   (x2)
+
+           Final:     G A F#m B   (x4)
+           N.C.

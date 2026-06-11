@@ -1,0 +1,64 @@
+=== mild days - Hitsujibungaku ===
+Key: Eb Major  |  Tuning: Standard (EADGBE)  |  Capo: none
+
+=== Eb (D# maj) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 6 5̇ 3̇ x x            3-6     
+x-z        x 6 8 0 x x            5-8     
+
+=== Bb (A# maj) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      6 5̇ 3̇ x x x            3-6     
+x-z        6 8 0 x x x            5-8     
+
+=== Ab (G# maj) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      4 3̇ 1 x x x            1-4     
+
+=== Cm ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      8 6 5̇ x x x            5-8     
+w-y-z      x 3̇ 1 0 4 x            1-4     
+w-x-z      8 6 5̇ 0 x x            5-8     
+w-y        x 3̇ 1 0 x x            1-4     
+
+=== Db (C# maj) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 4 3̇ 1 x x            1-4     
+
+=== F ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 8 7̇ 5̇ x x            5-8     
+
+=== Bbm (A# m) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      6 4 3̇ x x x            3-6     
+
+=== G ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 10 9̇ 7̇ x x           7-10    
+x-y        3̇ 2 0 0 0 x            1-4     
+w-y        3̇ 5̇ 0 0 0 x            3-6     
+w-y-z      x 10 9̇ 7̇ 0 x           7-10    
+x-y        3̇ 2 0 0 x x            1-4     
+
+=== Abm (G# m) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      4 2 1 x x x            1-4     
+x-z        x x 6 8 0 x            5-8     
+
+=== Progression ===
+           Intro:  Eb Bb Ab Eb Bb Eb
+           Verse1: Bb Ab Eb Bb Ab (x4), Bb Cm Db F Cm Db F Cm Db F Cm Bbm Eb Bb
+           PreCh:  Eb Bb Cm F / Eb Bb Cm Ab (x2) / Eb Bb Cm F / Eb Bb Ab Eb Bb Ab F Eb Bb Ab
+           Chorus: F Cm Bbm F / F Cm G F / F Cm / F Cm Bbm Eb
+           Outro:  Bb Eb Abm

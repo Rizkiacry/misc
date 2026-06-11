@@ -1,0 +1,59 @@
+=== F# maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      14 13̇ 11 x x x         11-14   
+
+=== G# sus4 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x x x 13̇ 14 11         11-14   
+
+=== A# m ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      6 4 3̇ x x x            3-6     
+
+=== A# m/G# ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x 4 6 6 6 x            3-6     
+
+=== C# maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 4 3̇ 1 x x            1-4     
+
+=== F 7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x x 3 5 4 5            3-6     
+
+=== Progression (no capo, key F# major) ===
+
+           Intro:     F# G#sus4 A#m A#m/G#   F# G#sus4 A#m A#m/G#
+
+           Verse 1:   F# G#sus4 A#m A#m/G#  (x3)
+           F# G#sus4 A#m C#      (x1)
+           A#m F7                (x1)
+
+           Chorus:    F# G#sus4 A#m   A#m/G# F# G#sus4 A#m
+           A#m/G#
+           F# G#sus4 A#m   A#m/G# F# G#sus4 A#m
+           C# F# G#sus4 A#m   A#m/G# F#
+           A#m/G# F#
+
+           Instrumental:  G#sus4 A#m A#m/G#   F# G#sus4 A#m C#
+
+           Verse 2:   (same as Verse 1)
+
+           Chorus 2:  F# G#sus4 A#m   A#m/G# F# G#sus4 A#m
+           A#m/G#
+           F# G#sus4 A#m   A#m/G# F# G#sus4 A#m
+           C# F# G#sus4 A#m   A#m/G# F# G#sus4 F#
+
+           Post-Chorus:  A#m A#m/G# F# G#sus4   A#m C#
+
+           Bridge:    F# G#sus4 A#m  (x3)   C#
+
+           Outro:     F# G#sus4 A#m A#m/G#   F# G#sus4 A#m
+           A#m/G#

@@ -1,0 +1,113 @@
+=== C# m ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x 4 2 1 x x            1-4     
+w-y-z      x x 11 13̇ 14 0         11-14   
+
+=== A maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 12 11 9̇ x x          9-12    
+
+=== B maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 14 13̇ 11 x x         11-14   
+
+=== G# m ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      4 2 1 x x x            1-4     
+x-z        x x 6 8 0 x            5-8     
+
+=== F# m ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      14 12 11 x x x         11-14   
+
+=== A maj7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 0 11 13̇ 14 0         11-14   
+w-y-z      x 0 11 13̇ 14 x         11-14   
+
+=== G# m7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      4 6 4 4 4 4            4-6     
+
+=== F# m7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      2 4 2 2 2 2            2-4     
+
+=== G# 7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      4 6 4 5 4 4            4-6     
+
+=== B 6 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x 2 4 4 4 4            2-4     
+
+=== G# 7sus4 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      4 6 4 6 4 4            4-6     
+
+=== Progression (no capo, key C# minor) ===
+
+           Intro:     C#m
+
+           Verse 1:   C#m A B C#m G#m   (x2)
+           F#m B C#m
+           A (hagareochita konkurito)
+           C#m (kuroi abura ni mamireta dakuto)
+           A (katsute kono machi wa)
+           C#m (datta natsukashii basho)
+
+           Pre-Chorus:  Amaj7 (33do no manatsu no taiyo hankoki)
+           C#m (360do maware senpuki)
+           Amaj7 (tokedasu kori ga usumeru aisukohi)
+           C#m (kono natsu ni zenbu kogasarete)
+           C#m B (omokage ni nagasarete hinkohosei ka)
+
+           B-Section:  A G#m7 (kono netsu ni kioku kara tokete shimaiso da)
+           F#m7 B6 (natsukashisa de mitashitatte zenzen warikittenaitte)
+           A G#7 NC (netsukenai yoru wa)
+
+           Chorus:     A B C#m B   (x4)
+           A B C#m (misuteri o motte kite)
+           A B C#m G#m   (x3)
+           A B C#m (koi o shiso da aa)
+
+           Post-Chorus:  A B C#m G#m   (x1)
+
+           Interlude:  A B C#m G#m   (x2)
+           A B C#m
+
+           Verse 2:    A (kosa suru kako to mirai to)
+           C#m (kurikaesu hitoponpu gensho)
+           A (tabun kono machi wa tokkuno mukashi ni haikyo)
+           C#m A G#m (ni natta ho ga yokatta n daro)
+
+           Pre-Chorus 2:  Amaj7 (33do no manatsu de kura hanboki)
+           C#m (furu kaiten suru beranda no shitsugai-ki)
+           Amaj7 (33bai tabereru kakigori)
+           C#m (kono natsu ni zenbu kogasarete-iku)
+           C#m B (ku)
+
+           Bridge:     A G#m7 (sama-)
+           C#m B (taimu ni matsuwaru manatsu no borei sa)
+           A G#m7 (kono netsu ni kioku kara tokete shimaiso da)
+           F#m7 B6 (natsukashisa de mitashitatte zenzen warikittenaitte)
+           A G#7sus4 G#7 NC (netsukenai yoru wa)
+
+           Chorus 2:   A B C#m B   (x4)
+           A B C#m (misuteri o motte kite)
+           A B C#m G#m   (x3)
+           A B C#m (koi o shiso da aa)
+
+           Outro:      A B C#m G#m   (x3)
+           A B C#m

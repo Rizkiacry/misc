@@ -1,0 +1,113 @@
+=== あぶく (Bubble) - Yorushika ===
+Key: D  |  Tuning: Standard (EADGBE)  |  Capo: none
+Source: music-chord.com (transcribed w/ capo 3, presented no-capo)
+
+=== B m7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x x 9̇ 7̇ 10 x           7-10    
+
+=== F# m7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y        2 4 2 2 2 x            2-4     
+w-x-y      x 9 11 9 10 9          9-11    
+
+=== F dim7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-y-z    x x 3 4 3 4            3-4     
+
+=== E m7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+x-z        0 14 12 0 0 0          11-14   
+x-z        0 10 12 0 0 0          9-12    
+
+=== G maj7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+x-z        x x x 0 12 14          11-14   
+
+=== G# m7b5 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-y-z    x x 6 4 3 2            2-6     
+w-y-z      x 11 9 7 7 x           7-11    
+
+=== F# 7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-y      2 4 2 3 2 2            2-4     
+w-y        x 9 11 9 11 9          9-11    
+
+=== A maj ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 12 11 9̇ x x          9-12    
+
+=== A# dim7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-y      x 1 2 0 2 0            1-2     
+w-x-y-z    x x 5 6 5 6            5-6     
+
+=== F aug ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-y      x x 3 2 2 1            1-3     
+
+=== C# m7b5 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+x-z        x 4 2 0 0 0            1-4     
+x-y        x 4 5̇ 0 0 0            3-6     
+x-z        x 4 2 0 0 x            1-4     
+
+=== F maj7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-y      x x 3 2 1 0            1-3     
+w-y        x 8 7 5 5 5            5-8     
+
+=== G 7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+x-y        x x x 0 6 7̇            5-8     
+
+=== F# aug ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-y      x x 4 3 3 2            2-4     
+
+=== A 7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x 0 11 12 14 0         11-14   
+
+=== D m7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x x 0 5̇ 6 8            5-8     
+
+=== Progression (no capo, key D) ===
+
+           INTRO 00:00-00:09 (x2)
+           Bm7 F#m7 Fdim7 Em7 GM7 F#m7
+           Bm7 F#m7 G#m7b5 GM7 F#7
+
+           A MELO 00:12-00:38 (x2)
+           Bm7 F#m7 Fdim7 Em7 GM7 F#m7
+           Bm7 F#m7 G#m7b5 GM7 F#7
+
+           B MELO 00:41-00:53
+           GM7 A A#dim7 Bm7 | Em7 F#7 Bm7 Faug
+           GM7 C#m7b5 FM7 G7 | G#m7b5 F#aug
+
+           CHORUS 00:54-01:17
+           Bm7 Em7 A7 F#7 | GM7 Em7 F#7
+           Bm7 Em7 A7 F#7 | GM7 Em7 F#7 N.C.
+
+           B MELO (2nd) 01:53-02:04
+           GM7 A A#dim7 Bm7 | Em7 F#7 Bm7 Faug
+           Em7 A7 Dm7 GM7 | G#m7b5 F#aug

@@ -1,0 +1,99 @@
+=== Hide And Seek With The Moon (月と私のかくれんぼ) - yutori ===
+Key: G Major  |  Tuning: Standard (EADGBE)  |  Capo: none
+Source: music-chord.com
+
+=== CM7 (C maj7) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x x 10 9̇ 12 x          9-12    
+x-y        x 3̇ 2 0 0 0            1-4     
+w-y        x 3̇ 5̇ 0 0 0            3-6     
+w-y-z      8 7̇ 5̇ 0 0 0            5-8     
+w-x-z      8 7̇ 10 0 0 0           7-10    
+w-y-z      8 7̇ 5̇ 0 0 x            5-8     
+w-x-z      8 7̇ 10 0 0 x           7-10    
+w-x-z      x x 10 9̇ 12 0          9-12    
+
+=== BbM7 (A# maj7) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x x 8 7̇ 10 x           7-10    
+
+=== Am7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x x 7̇ 5̇ 8 x            5-8     
+w-y-z      x 0 7̇ 5̇ 8 0            5-8     
+
+=== G ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 10 9̇ 7̇ x x           7-10    
+x-y        3̇ 2 0 0 0 x            1-4     
+w-y        3̇ 5̇ 0 0 0 x            3-6     
+w-y-z      x 10 9̇ 7̇ 0 x           7-10    
+x-y        3̇ 2 0 0 x x            1-4     
+
+=== B7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-y-z    x 2 1 2 0 2            1-4     
+w-x-y      x 2 1 2 0 x            1-4     
+
+=== Em7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+x-z        0 14 12 0 0 0          11-14   
+x-z        0 10 12 0 0 0          9-12    
+
+=== A7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x 0 11 12 14 0         11-14   
+
+=== Bm7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x x 9̇ 7̇ 10 x           7-10    
+
+=== D ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      10 9̇ 7̇ x x x           7-10    
+x-y        x x 0 11 10 x          9-12    
+
+=== FM7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-y      x x 3 2 1 0            1-4     
+
+=== Dm7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-x-z      x x 0 5̇ 6 8            5-8     
+
+=== G7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+x-y        x x x 0 6 7̇            5-8     
+
+=== CmM7 (C mmaj7) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      x 3̇ 1 4 x x            1-4     
+w-y-z      x 3̇ 1 4 0 x            1-4     
+w-x-z      8 6 5̇ 0 0 x            5-8     
+w-y        x 3̇ 1 0 0 x            1-4     
+
+=== E7 ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+w-y-z      0 11 12 9̇ 0 0          9-12    
+
+=== GM7 (G maj7) ===
+Fingers    Shape                  Section
+---------- ---------------------- --------
+x-z        x x x 0 12 14          11-14   
+
+=== Progression ===
+           Chord order by first appearance: CM7 BbM7 Am7 G B7 Em7 A7 Bm7 D FM7 Dm7 G7 CmM7 E7 GM7
